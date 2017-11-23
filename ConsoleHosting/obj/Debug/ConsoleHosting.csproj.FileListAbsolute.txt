@@ -1,0 +1,6 @@
+C:\Users\Maksim\Documents\Visual Studio 2015\Projects\ConsoleApplicationWCF\ConsoleHosting\bin\Debug\ConsoleHosting.exe.config
+C:\Users\Maksim\Documents\Visual Studio 2015\Projects\ConsoleApplicationWCF\ConsoleHosting\bin\Debug\ConsoleHosting.exe
+C:\Users\Maksim\Documents\Visual Studio 2015\Projects\ConsoleApplicationWCF\ConsoleHosting\bin\Debug\ConsoleHosting.pdb
+C:\Users\Maksim\Documents\Visual Studio 2015\Projects\ConsoleApplicationWCF\ConsoleHosting\obj\Debug\ConsoleHosting.csprojResolveAssemblyReference.cache
+C:\Users\Maksim\Documents\Visual Studio 2015\Projects\ConsoleApplicationWCF\ConsoleHosting\obj\Debug\ConsoleHosting.exe
+C:\Users\Maksim\Documents\Visual Studio 2015\Projects\ConsoleApplicationWCF\ConsoleHosting\obj\Debug\ConsoleHosting.pdb

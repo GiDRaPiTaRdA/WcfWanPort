@@ -1,0 +1,6 @@
+c:\users\maksim\documents\visual studio 2015\Projects\ConsoleApplicationWCF\ConsoleApplicationWCF\bin\Debug\ConsoleApplicationWCF.exe.config
+c:\users\maksim\documents\visual studio 2015\Projects\ConsoleApplicationWCF\ConsoleApplicationWCF\bin\Debug\ConsoleApplicationWCF.exe
+c:\users\maksim\documents\visual studio 2015\Projects\ConsoleApplicationWCF\ConsoleApplicationWCF\bin\Debug\ConsoleApplicationWCF.pdb
+c:\users\maksim\documents\visual studio 2015\Projects\ConsoleApplicationWCF\ConsoleApplicationWCF\obj\Debug\ConsoleApplicationWCF.exe
+c:\users\maksim\documents\visual studio 2015\Projects\ConsoleApplicationWCF\ConsoleApplicationWCF\obj\Debug\ConsoleApplicationWCF.pdb
+C:\Users\Maksim\Documents\visual studio 2015\Projects\ConsoleApplicationWCF\ConsoleApplicationWCF\obj\Debug\ConsoleApplicationWCF.csprojResolveAssemblyReference.cache
